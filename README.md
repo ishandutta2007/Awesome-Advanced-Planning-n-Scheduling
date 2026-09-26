@@ -47,9 +47,9 @@ The table below lists leading SaaS and enterprise APS platforms, sorted in **des
 
 Open-source strength lies in **constraint solvers**, mathematical modeling stacks, and discrete-event simulation engines used to build custom production and job-shop schedulers.
 
-The table below lists significant open-source scheduling projects, sorted in **descending order by GitHub star count**:
+The table below lists significant open-source scheduling projects, sorted in **descending order by GitHub Stars_Count**:
 
-| Project / Repository 📦 | GitHub Stars ⭐ | Language / Tech Stack 🛠️ | Description & Use Case 🎯 |
+| Project / Repository 📦 | GitHub_Stars ⭐ | Language / Tech Stack 🛠️ | Description & Use Case 🎯 |
 | :--- | :--- | :--- | :--- |
 | **[ERPNext](https://github.com/frappe/erpnext)** | [<img src="https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white" alt="ERPNext Stars"/>](https://github.com/frappe/erpnext/stargazers) | Python, JavaScript | Open-source ERP with manufacturing & production scheduling modules, often integrated with custom constraint engines. |
 | **[Google OR-Tools](https://github.com/google/or-tools)** | [<img src="https://img.shields.io/github/stars/google/or-tools?style=social&color=white" alt="OR-Tools Stars"/>](https://github.com/google/or-tools/stargazers) | C++, Python, Java, C# | Fast, open suite for combinatorial optimization—CP-SAT solver is widely used to build custom job-shop (JSSP) and vehicle routing schedulers. |
